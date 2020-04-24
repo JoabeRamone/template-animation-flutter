@@ -1,3 +1,14 @@
+# Template de animações em Flutter
+
+Possui duas screens:
+->Login
+->Home
+
+Deixei o gif um pouco mais lento para conseguir ver a movimentação dos widgets. Foi utilizado a biblioteca scheduler.dart e setado o timeDilation para 2.
+
+![Alt Text](https://github.com/JoabeRamone/template-animation-flutter/blob/master/images/template_app_an.gif)
+
+
 # flutterappanimation
 
 A new Flutter application.
@@ -14,7 +25,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# template-animation-flutter
-
-
-![Alt Text](https://github.com/JoabeRamone/template-animation-flutter/blob/master/images/template_app_an.gif)
